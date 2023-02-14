@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/DevOpsOIP/29a05aeb-1f4a-481c-ba6e-e3c4b39cd77e/7ecbc88f-1085-4221-86a7-1d209892d506/_apis/work/boardbadge/495b5fdc-2812-4f98-87bc-c7c4138db7dd)](https://dev.azure.com/DevOpsOIP/29a05aeb-1f4a-481c-ba6e-e3c4b39cd77e/_boards/board/t/7ecbc88f-1085-4221-86a7-1d209892d506/Microsoft.RequirementCategory)
 # AZ-400: Designing and Implementing Microsoft DevOps Solutions
 
 - **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
